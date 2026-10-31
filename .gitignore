@@ -1,0 +1,7 @@
+__pycache__/
+data/consolidated_database_v8.0.zip
+data/_*.txt
+_*.py
+_*.txt
+_*.json
+_*.html
